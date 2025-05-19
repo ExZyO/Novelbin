@@ -1,0 +1,2 @@
+document.head.innerHTML += "<link rel=manifest href=https://api.lowtechguys.com/manif?name=NovelBin&short_name=NovelBin&display=standalone&orientation=portrait&start_url=https%3A%2F%2Fnovelbin.com%2Fbookmark&icon=https%3A%2F%2Fnovelbin.com%2Ffavicon.ico&color=%23202020&background_color=%23202020>";
+document.head.innerHTML += "<meta name=apple-mobile-web-app-status-bar-style content=black-translucent>";
