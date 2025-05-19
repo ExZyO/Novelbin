@@ -1,0 +1,2 @@
+document.head.innerHTML += "<link rel=manifest href=https://api.lowtechguys.com/manif?name=YouTube&short_name=YouTube&display=standalone&orientation=portrait&start_url=https%3A%2F%2Fm.youtube.com%2F&icon=https%3A%2F%2Fwww.youtube.com%2Fs%2Fdesktop%2F2c5e0e8b%2Fimg%2Ffavicon_144.png&color=%23000000&background_color=%23000000>";
+document.head.innerHTML += "<meta name=apple-mobile-web-app-status-bar-style content=black-translucent>";
