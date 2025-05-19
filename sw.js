@@ -1,1 +1,0 @@
-document.head.innerHTML += "<link rel=manifest href=https://exzyo.github.io/Novelbin/manifest.json>";
